@@ -1,0 +1,12 @@
+en:
+  activerecord:
+    errors:
+      models:
+        spree/address:
+          attributes:
+            base:
+              cant_geocode: "Can't find earth coordinates by using full address"
+        spree/order:
+          attributes:
+            ship_address:
+              address_is_too_far: "Your house is not in delivery area"

@@ -1,0 +1,1 @@
+DELIVERY_DISTANCE_CONFIG = SpreeDeliveryDistance::Spree::DeliveryDistanceConfiguration.new
